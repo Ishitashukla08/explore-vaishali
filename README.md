@@ -34,3 +34,36 @@ explore-vaishali/
 │── script.js
 │── README.md
 ```
+
+## 📸 Screenshots
+
+### Desktop View
+
+![Desktop View](assets/desktop-home.png)
+
+### Dark Mode
+
+![Dark Mode](assets/dark-mode.png)
+
+### Mobile View
+
+![Mobile View](assets/mobile-view.jpeg)
+
+## 🚀 Run Locally
+
+1. Clone the repository
+
+```bash
+git clone https://github.com/Ishitashukla08/explore-vaishali.git
+```
+
+2. Open the project folder.
+
+3. Launch `index.html` in your web browser.
+
+## 👩‍💻 Author
+
+**Ishita Shukla**
+
+- GitHub: https://github.com/Ishitashukla08
+- LinkedIn: www.linkedin.com/in/ishitashukla333
